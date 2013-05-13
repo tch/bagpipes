@@ -1,0 +1,28 @@
+
+h3. Project Description
+
+Bagpipes blowing data through pipes. It's a camel-based data routing service for home server. It's mostly here to shopw case certain cool technologies and techniques:
+camel, scala, reactive extensions, object algebras maybe even some OSGi.
+
+
+h3. Sample Code
+
+
+h3. Getting Started
+
+To build this project use
+
+    mvn install
+
+To run this project
+
+    mvn exec:java
+
+
+h3. Development Status
+
+h4. TODO
+  
+
+h3. Related Work
+
