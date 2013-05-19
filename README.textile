@@ -1,7 +1,8 @@
+h2. Bagpipes -- blowing data through your pipes
 
 h3. Project Description
 
-Bagpipes blowing data through pipes. It's a camel-based data routing service for home server. It's mostly here to shopw case certain cool technologies and techniques:
+ It's a camel-based data routing service for a home server. It's mostly here to showcase certain useful technologies and techniques:
 camel, scala, reactive extensions, object algebras maybe even some OSGi.
 
 
